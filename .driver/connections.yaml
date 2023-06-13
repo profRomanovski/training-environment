@@ -6,3 +6,10 @@ connections:
     region: us-east-1
     key: "AKIAUCOHEVQPU4OPOTUG"
     secret: "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"
+
+  mysql:
+    engine: mysql
+    host: db
+    database: db
+    user: db
+    password: "db"

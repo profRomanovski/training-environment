@@ -363,7 +363,6 @@ return [
         'SwiftOtter_PageBuilder' => 1,
         'SwiftOtter_ProductDecorator' => 1,
         'SwiftOtter_Repository' => 1,
-        'SwiftOtter_StockLookup' => 1,
         'SwiftOtter_Teaching' => 1,
         'SwiftOtter_Utils' => 1,
         'Temando_ShippingRemover' => 1,
